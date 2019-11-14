@@ -11,8 +11,8 @@ class EmailAddressParser
     @email = email 
   end
   
-  def phrase
-    email.split(/ , /).uniq
+  def parse
+   
   end
   
   
