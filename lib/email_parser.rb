@@ -12,6 +12,7 @@ class EmailAddressParser
   end
   
   def phrase
+    
   end
   
   
